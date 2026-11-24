@@ -6,16 +6,22 @@
   },
   "metadata": {
     "description": "Skills for planning and running large-scale synthetic data generation with coding agents.",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   "plugins": [
     {
       "name": "synthetic-data-generation",
-      "source": "./plugins/synthetic-data-generation",
-      "description": "Plan and run large-scale LLM synthetic data generation on a single agent subscription with cheap worker models, then audit, post-process and document it.",
-      "version": "1.0.0",
+      "source": "./",
+      "description": "Plan and run large-scale synthetic data generation with any coding agent, using cheap worker models on your own subscription, then audit, post-process and document it.",
+      "version": "1.1.0",
       "category": "data",
-      "keywords": ["synthetic-data", "data-generation", "llm", "dataset", "audit"]
+      "keywords": [
+        "synthetic-data",
+        "data-generation",
+        "llm",
+        "dataset",
+        "audit"
+      ]
     }
   ]
 }

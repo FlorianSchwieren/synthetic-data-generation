@@ -1,0 +1,5 @@
+{
+  "name": "synthetic-data-generation",
+  "version": "1.1.0",
+  "description": "Plan and run large-scale synthetic data generation with any coding agent, using cheap worker models on your own subscription, then audit, post-process and document it."
+}
