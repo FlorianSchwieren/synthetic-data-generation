@@ -1,0 +1,12 @@
+{
+  "name": "synthetic-data-generation",
+  "version": "1.0.0",
+  "description": "Plan and run large-scale LLM synthetic data generation on a single agent subscription with cheap worker models, then audit, post-process and document it.",
+  "author": {
+    "name": "FlorianSchwieren",
+    "url": "https://github.com/FlorianSchwieren"
+  },
+  "homepage": "https://github.com/FlorianSchwieren/synthetic-data-generation",
+  "repository": "https://github.com/FlorianSchwieren/synthetic-data-generation",
+  "keywords": ["synthetic-data", "data-generation", "llm", "dataset", "audit"]
+}
