@@ -48,7 +48,12 @@ plugins/synthetic-data-generation/
   .claude-plugin/plugin.json                         plugin metadata
   skills/synthetic-data-generation/SKILL.md          the skill
 scripts/build-zip.sh                                 builds the claude.ai upload zip
+LICENSE                                              MIT license
 ```
+
+## License
+
+[MIT](LICENSE): free to use, copy, modify and distribute, including commercially, as long as the copyright notice is kept.
 
 ## Changelog
 

@@ -8,5 +8,6 @@
   },
   "homepage": "https://github.com/FlorianSchwieren/synthetic-data-generation",
   "repository": "https://github.com/FlorianSchwieren/synthetic-data-generation",
+  "license": "MIT",
   "keywords": ["synthetic-data", "data-generation", "llm", "dataset", "audit"]
 }
